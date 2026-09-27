@@ -13,6 +13,36 @@
   </p>
 </p>
 
+## 🚀 Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react" height="60" alt="React"/>
+<img src="https://skillicons.dev/icons?i=vite" height="60" alt="Vite"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="60" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5"/>
+<img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3"/>
+<img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring Boot"/>
+<img src="https://skillicons.dev/icons?i=maven" height="60" alt="Maven"/>
+<img src="https://skillicons.dev/icons?i=python" height="60" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="PyTorch"/>
+<img src="https://skillicons.dev/icons?i=git" height="60" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</p>
+
 ---
 
 # 📌 Overview
